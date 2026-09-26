@@ -227,4 +227,21 @@ footer a{
     #container-signup{
         width: 90%;
     }
+
+    input[type="password"], input[type="text"], input[type="submit"]{
+        width: 80%
+    }
+
+    .cta-button{
+        width: 80%;
+    }
+
+    .message{
+        margin: 10px 25px
+    }
+
+    .app-buttons{
+        margin-bottom: 80px;  
+}
+
 }
