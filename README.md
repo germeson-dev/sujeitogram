@@ -1,23 +1,32 @@
+# 📱 Sujeitogram — Sua rede social
 
-# Sujeitogram - Sua rede social
-Neste projeto, foi possível praticar HTML e CSS, além de praticar também a responsividade da página para se adaptarem tanto em Desktop e Mobile.
+O **Sujeitogram** é um projeto desenvolvido para praticar e aprimorar conhecimentos em **HTML e CSS**, com foco na criação de uma interface moderna, responsiva e adaptável a diferentes tamanhos de tela.
 
-Também foi possível adquirir novas conhecimentos com o Git e Vercel.
+Durante o desenvolvimento, também foi possível colocar em prática conceitos de **responsividade**, além de adquirir experiência com **Git** e realizar o **deploy da aplicação utilizando a Vercel**.
 
-## Tecnologias utilizadas no projeto
+## 🚀 Tecnologias utilizadas
+
 <div style="display: inline_block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## Ferramentas
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+## 🛠️ Ferramentas
 
-## Acesse aqui - Deploy
-Link do Deploy: <br>
-<a 
-href="https://sujeitogram.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
+
+## 🌐 Deploy
+
+Acesse o projeto online:
+
+<a href="https://sujeitogram.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Projeto-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar projeto">
 </a>
 
-<img src="./assets/Demo-home.png" alt="img demo">
-<img src="./assets/Demo.png" alt="img demo">
+## 🖥️ Demonstração
+### Responsividade
+<img src="./assets/Demo-desktop-mobile.png" alt="Demonstração do Sujeitogram em diferentes tamanhos de tela">
+
